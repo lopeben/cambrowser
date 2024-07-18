@@ -2,4 +2,5 @@
 Display camera images on a browser
 
 ## Launch
-http://localhost:5000
+On commandline: python cambrowser.py
+On webbrowser: http://localhost:5000
